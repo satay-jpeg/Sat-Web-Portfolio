@@ -109,7 +109,7 @@ class _PortfolioPageState extends State<PortfolioPage> {
                                 style: TextStyle(
                                     color: Colors.white70, fontSize: 20)),
                             const SizedBox(height: 8),
-                            const Text('Special Participant',
+                            const Text('Sathyanarayanan Balamurugan',
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 48,
@@ -140,7 +140,17 @@ class _PortfolioPageState extends State<PortfolioPage> {
                                 SocialItem(
                                   icon: FontAwesomeIcons.instagram,
                                   label: 'Instagram',
-                                  url: 'https://www.instagram.com/k.hyeho/',
+                                  url: 'https://www.instagram.com/satayyyyy/',
+                                ),
+                                SocialItem(
+                                  icon: FontAwesomeIcons.linkedin,
+                                  label: 'LinkedIn',
+                                  url: 'https://www.linkedin.com/in/sathya176/',
+                                ),
+                                SocialItem(
+                                  icon: FontAwesomeIcons.github,
+                                  label: 'GitHub',
+                                  url: 'https://github.com/satay-jpeg',
                                 ),
                                 
                               ],
